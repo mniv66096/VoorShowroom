@@ -194,7 +194,107 @@ ModelImporter:
     4300056: Object008
     4300058: Object009
     4300060: Object010
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Lights
+    second: {fileID: 2100000, guid: 1f46b50983a2c0545b169cd8a9337f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: 7432c3c47960ece42b310862661d2458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Dress
+    second: {fileID: 2100000, guid: 71c1416aa2869a54b962e8b54657df35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 151790439d014604291044f0ed767f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fur
+    second: {fileID: 2100000, guid: da5fb4fe1d7ae904eaa853722e24f068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 8b021c211e3179940bab2a2c1037e759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jacket
+    second: {fileID: 2100000, guid: 3bccca35f397a204095f6fb1f6fb27ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble 1
+    second: {fileID: 2100000, guid: c0fe785b8e900034cbe295f874d012b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble 2
+    second: {fileID: 2100000, guid: aa0a5a978fc34984187470336575e07b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #14'
+    second: {fileID: 2100000, guid: 4b845dc0cad38ba45b3918638344ff7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rug
+    second: {fileID: 2100000, guid: 993bec28a35562747b3955982b932dd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scarf
+    second: {fileID: 2100000, guid: 61adaa87d87feaf40830ec420e5f7b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Showroom_wire_018018018
+    second: {fileID: 2100000, guid: 8d35189c04002084fa702810f4fe31e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiled Floor
+    second: {fileID: 2100000, guid: 2c57965bac8bea14baecc4f6daea2439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Wall
+    second: {fileID: 2100000, guid: eb5f0e2e228c9624b939ffedf67973b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood 1
+    second: {fileID: 2100000, guid: 94d923c82125aee478c8e540ec5d4e26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood 2
+    second: {fileID: 2100000, guid: d29cb39edd68ff04a8cb0308eb398799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood 3
+    second: {fileID: 2100000, guid: 8a28067ef830c8f47bc516bda3052a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Dress
+    second: {fileID: 2100000, guid: e52c3f8cd0595b247bc51f4b54bfba5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup
+    second: {fileID: 2100000, guid: 2ff671b3f1d21a54096fee55ec88d5df, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
