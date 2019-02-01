@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 38d530c261424564586cd13dc75f5aab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Coat_with_Avatar_Mesh
+    100002: Garmet_1_Cylinder001
+    100004: Garmet_1_Cylinder002
+    100006: Garmet_1_Group5834
+    100008: Garmet_2_Group48632
+    100010: Garmet_3_Group12752
+    100012: Glass Tubes
+    100014: Jacket1_Jacket_polySurface1
+    100016: look1_Mesh
+    100018: Object001
+    100020: Object002
+    100022: Object003
+    100024: Object004
+    100026: Object005
+    100028: Object006
+    100030: Object007
+    100032: Object008
+    100034: Object009
+    100036: Object010
+    100038: pSphere003
+    100040: pSphere004
+    100042: pSphere1
+    100044: pSphere2
+    100046: //RootNode
+    100048: Showroom_Circle003
+    100050: Showroom_Circle005
+    100052: Showroom_Cylinder004
+    100054: Showroom_Object006
+    100056: Showroom_Object011
+    100058: Showroom_Object015
+    100060: Showroom_Object024
+    100062: Showroom_Plane002
+    100064: Showroom_Showroom_polySurface3_Showroom_Showroom_Showroom_Box021
+    100066: Showroom_Showroom_polySurface7
+    100068: Showroom_Showroom_Showroom_Object007
+    100070: Showroom_Showroom_Showroom_Plane001
+    100072: Showroom_Showroom_Showroom_Showroom_Circle007
+    100074: Showroom_x15
+    100076: Sleeve_Sleeve_Group1
+    400000: Coat_with_Avatar_Mesh
+    400002: Garmet_1_Cylinder001
+    400004: Garmet_1_Cylinder002
+    400006: Garmet_1_Group5834
+    400008: Garmet_2_Group48632
+    400010: Garmet_3_Group12752
+    400012: Glass Tubes
+    400014: Jacket1_Jacket_polySurface1
+    400016: look1_Mesh
+    400018: Object001
+    400020: Object002
+    400022: Object003
+    400024: Object004
+    400026: Object005
+    400028: Object006
+    400030: Object007
+    400032: Object008
+    400034: Object009
+    400036: Object010
+    400038: pSphere003
+    400040: pSphere004
+    400042: pSphere1
+    400044: pSphere2
+    400046: //RootNode
+    400048: Showroom_Circle003
+    400050: Showroom_Circle005
+    400052: Showroom_Cylinder004
+    400054: Showroom_Object006
+    400056: Showroom_Object011
+    400058: Showroom_Object015
+    400060: Showroom_Object024
+    400062: Showroom_Plane002
+    400064: Showroom_Showroom_polySurface3_Showroom_Showroom_Showroom_Box021
+    400066: Showroom_Showroom_polySurface7
+    400068: Showroom_Showroom_Showroom_Object007
+    400070: Showroom_Showroom_Showroom_Plane001
+    400072: Showroom_Showroom_Showroom_Showroom_Circle007
+    400074: Showroom_x15
+    400076: Sleeve_Sleeve_Group1
+    2100000: 'Material #14'
+    2100002: initialShadingGroup
+    2100004: Fur
+    2100006: Dark Dress
+    2100008: White Wall
+    2100010: Wood 3
+    2100012: Wood 1
+    2100014: Wood 2
+    2100016: Marble 2
+    2100018: Glass
+    2100020: Ceiling
+    2100022: Tiled Floor
+    2100024: Black Lights
+    2100026: Rug
+    2100028: Jacket
+    2100030: Scarf
+    2100032: Yellow Dress
+    2100034: Floor
+    2100036: Showroom_wire_018018018
+    2100038: Marble 1
+    2300000: Coat_with_Avatar_Mesh
+    2300002: Garmet_1_Cylinder001
+    2300004: Garmet_1_Cylinder002
+    2300006: Garmet_1_Group5834
+    2300008: Garmet_3_Group12752
+    2300010: Glass Tubes
+    2300012: Jacket1_Jacket_polySurface1
+    2300014: look1_Mesh
+    2300016: Object001
+    2300018: Object002
+    2300020: Object003
+    2300022: Object004
+    2300024: Object005
+    2300026: Object007
+    2300028: Object008
+    2300030: Object009
+    2300032: Object010
+    2300034: pSphere1
+    2300036: pSphere2
+    2300038: Showroom_Circle003
+    2300040: Showroom_Circle005
+    2300042: Showroom_Cylinder004
+    2300044: Showroom_Object006
+    2300046: Showroom_Plane002
+    2300048: Showroom_Showroom_polySurface3_Showroom_Showroom_Showroom_Box021
+    2300050: Showroom_Showroom_polySurface7
+    2300052: Showroom_Showroom_Showroom_Object007
+    2300054: Showroom_Showroom_Showroom_Plane001
+    2300056: Showroom_Showroom_Showroom_Showroom_Circle007
+    2300058: Showroom_x15
+    2300060: Sleeve_Sleeve_Group1
+    3300000: Coat_with_Avatar_Mesh
+    3300002: Garmet_1_Cylinder001
+    3300004: Garmet_1_Cylinder002
+    3300006: Garmet_1_Group5834
+    3300008: Garmet_3_Group12752
+    3300010: Glass Tubes
+    3300012: Jacket1_Jacket_polySurface1
+    3300014: look1_Mesh
+    3300016: Object001
+    3300018: Object002
+    3300020: Object003
+    3300022: Object004
+    3300024: Object005
+    3300026: Object007
+    3300028: Object008
+    3300030: Object009
+    3300032: Object010
+    3300034: pSphere1
+    3300036: pSphere2
+    3300038: Showroom_Circle003
+    3300040: Showroom_Circle005
+    3300042: Showroom_Cylinder004
+    3300044: Showroom_Object006
+    3300046: Showroom_Plane002
+    3300048: Showroom_Showroom_polySurface3_Showroom_Showroom_Showroom_Box021
+    3300050: Showroom_Showroom_polySurface7
+    3300052: Showroom_Showroom_Showroom_Object007
+    3300054: Showroom_Showroom_Showroom_Plane001
+    3300056: Showroom_Showroom_Showroom_Showroom_Circle007
+    3300058: Showroom_x15
+    3300060: Sleeve_Sleeve_Group1
+    4300000: pSphere1
+    4300002: pSphere2
+    4300004: Coat_with_Avatar_Mesh
+    4300006: Garmet_1_Cylinder002
+    4300008: Garmet_1_Cylinder001
+    4300010: Garmet_1_Group5834
+    4300012: Garmet_3_Group12752
+    4300014: look1_Mesh
+    4300016: Showroom_Showroom_Showroom_Plane001
+    4300018: Showroom_Showroom_Showroom_Showroom_Circle007
+    4300020: Showroom_Showroom_polySurface3_Showroom_Showroom_Showroom_Box021
+    4300022: Showroom_Showroom_polySurface7
+    4300024: Showroom_Showroom_Showroom_Object007
+    4300026: Showroom_Circle005
+    4300028: Showroom_Plane002
+    4300030: Showroom_x15
+    4300032: Showroom_Object006
+    4300034: Glass Tubes
+    4300036: Showroom_Cylinder004
+    4300038: Showroom_Circle003
+    4300040: Jacket1_Jacket_polySurface1
+    4300042: Object001
+    4300044: Object002
+    4300046: Object003
+    4300048: Sleeve_Sleeve_Group1
+    4300050: Object004
+    4300052: Object005
+    4300054: Object007
+    4300056: Object008
+    4300058: Object009
+    4300060: Object010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
