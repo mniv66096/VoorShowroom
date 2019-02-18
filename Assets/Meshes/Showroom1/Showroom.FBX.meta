@@ -194,6 +194,38 @@ ModelImporter:
     4300056: Object008
     4300058: Object009
     4300060: Object010
+    6400000: Coat_with_Avatar_Mesh
+    6400002: Garmet_1_Cylinder001
+    6400004: Garmet_1_Cylinder002
+    6400006: Garmet_1_Group5834
+    6400008: Garmet_3_Group12752
+    6400010: Glass Tubes
+    6400012: Jacket1_Jacket_polySurface1
+    6400014: look1_Mesh
+    6400016: Object001
+    6400018: Object002
+    6400020: Object003
+    6400022: Object004
+    6400024: Object005
+    6400026: Object007
+    6400028: Object008
+    6400030: Object009
+    6400032: Object010
+    6400034: pSphere1
+    6400036: pSphere2
+    6400038: Showroom_Circle003
+    6400040: Showroom_Circle005
+    6400042: Showroom_Cylinder004
+    6400044: Showroom_Object006
+    6400046: Showroom_Plane002
+    6400048: Showroom_Showroom_polySurface3_Showroom_Showroom_Showroom_Box021
+    6400050: Showroom_Showroom_polySurface7
+    6400052: Showroom_Showroom_Showroom_Object007
+    6400054: Showroom_Showroom_Showroom_Plane001
+    6400056: Showroom_Showroom_Showroom_Showroom_Circle007
+    6400058: Showroom_x15
+    6400060: Sleeve_Sleeve_Group1
+    2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -325,14 +357,14 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
-    importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
@@ -342,21 +374,21 @@ ModelImporter:
     preserveHierarchy: 0
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
-    secondaryUVHardAngle: 88
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 180
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 3
+    tangentImportMode: 0
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
